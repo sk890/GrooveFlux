@@ -18,25 +18,17 @@
 			<ul class="nav navbar-nav">
 				<li><a href="home.php">Home</a></li>
 				<li><a href="collective.php">Collective</a></li>
-				<li class="active"><a href="contact.php">Contact</a></li> 
-				<li><a href="about.php">About Us</a></li> 
+				<li><a href="contact.php">Contact</a></li> 
+				<li class="active"><a href="about.php">About Us</a></li> 
 			</ul>
 		</div>
 	</nav>
-	<div  style="margin-top:10%">
-		<div class="container">
-			<form role="form" action="process_contact.php" method="post">
-				<div class="form-group">
-					<label for="email">Email address:</label>
-					<input type="email" class="form-control" id="email" name="email">
-			</div>
-			<div class="form-group">
-				<label for="comment">Comment:</label>
-				<textarea class="form-control" rows="5" id="comment" name="comment"></textarea>
-			</div>
-			<button type="submit" class="btn btn-default">Submit</button>
-			</form>
-		</div>
+	
+	<div class="well well-lg" style="margin-top:150px">
+		<h1>Groove-Flux</h1>
+		<p>Groove Flux is a social network that aims to strengthen the local music scene by providing a platform for musicians to deliver their music to the local populace,  promotion companies to publish their local event and fans to discover local musicians/events quickly and easily.</p>
 	</div>
+	
+
 	</body>
 </html>

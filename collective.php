@@ -18,25 +18,12 @@
 			<ul class="nav navbar-nav">
 				<li><a href="home.php">Home</a></li>
 				<li><a href="collective.php">Collective</a></li>
-				<li class="active"><a href="contact.php">Contact</a></li> 
-				<li><a href="about.php">About Us</a></li> 
+				<li><a href="contact.php">Contact</a></li> 
+				<li class="active"><a href="about.php">About Us</a></li> 
 			</ul>
 		</div>
 	</nav>
-	<div  style="margin-top:10%">
-		<div class="container">
-			<form role="form" action="process_contact.php" method="post">
-				<div class="form-group">
-					<label for="email">Email address:</label>
-					<input type="email" class="form-control" id="email" name="email">
-			</div>
-			<div class="form-group">
-				<label for="comment">Comment:</label>
-				<textarea class="form-control" rows="5" id="comment" name="comment"></textarea>
-			</div>
-			<button type="submit" class="btn btn-default">Submit</button>
-			</form>
-		</div>
-	</div>
+	<h1 align="center" style="margin-top:55px">UNDER CONSTUCTION</h1>
+
 	</body>
 </html>

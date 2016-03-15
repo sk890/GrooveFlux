@@ -15,9 +15,9 @@
 					<a class="navbar-brand" href="#">Groove-Flux</a>
 				</div>
 				<ul class="nav navbar-nav">
-					<li class="active"><a href="home.php">Home</a></li>
+					<li ><a href="home.php">Home</a></li>
 					<li><a href="collective.php">Collective</a></li>
-					<li><a href="contact.php">Contact</a></li> 
+					<li class="active"><a href="contact.php">Contact</a></li> 
 					<li><a href="about.php">About Us</a></li> 
 				</ul>
 			</div>
