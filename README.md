@@ -1,4 +1,4 @@
 # GrooveFlux
--Pull
--run init_DB with proper mysql credential
--run home.php
+-Pull\n
+-run init_DB with proper mysql credential\n
+-run home.php\n
