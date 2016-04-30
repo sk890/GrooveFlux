@@ -1,0 +1,38 @@
+ul, ol {
+    list-style: none;
+}
+body {
+    background-color: #000000;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: #2E9AFE;
+}
+.navbar-inverse .navbar-brand {
+    color: #2E9AFE;	
+}
+.navbar-inverse .navbar-nav>li>a{
+    color: #2E9AFE;
+}
+.navbar-brand {
+    font-size: 25px;
+}
+.navbar-inverse {
+    background-color: #333333;
+    border-color: #080808;
+}
+.well-lg {
+    padding: 24px;
+    border-radius: 6px;
+	width: 50%;
+	margin: 5% auto;
+	background-color: #333333;
+	border-color: #080808;
+}
+#login{
+    text-align: center;
+}
+
+#page_header{
+    opacity: 0.5;
+    
+}
