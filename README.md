@@ -1,4 +1,5 @@
 # GrooveFlux
--Pull<br />
--run init_DB with proper mysql credential<br />
--run home.php<br />
+- Pull<br />
+- Configure user DB paremeters in GrooveFlux/final/models/db-settings.php
+- run GrooveFlux/final/index.php<br />
+
